@@ -1,0 +1,12 @@
+target
+SampleProject/.classpath
+SampleProject/.project
+SampleProject/.settings/.jsdtscope
+SampleProject/.settings/org.eclipse.jdt.apt.core.prefs
+SampleProject/.settings/org.eclipse.jdt.core.prefs
+SampleProject/.settings/org.eclipse.m2e.core.prefs
+SampleProject/.settings/org.eclipse.wst.common.component
+SampleProject/.settings/org.eclipse.wst.common.project.facet.core.xml
+SampleProject/.settings/org.eclipse.wst.jsdt.ui.superType.container
+SampleProject/.settings/org.eclipse.wst.jsdt.ui.superType.name
+SampleProject/.settings/org.eclipse.wst.validation.prefs
