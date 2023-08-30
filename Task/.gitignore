@@ -1,0 +1,14 @@
+target
+Task/.classpath
+Task/.gitignore
+Task/.project
+Task/.settings/.jsdtscope
+Task/.settings/org.eclipse.jdt.apt.core.prefs
+Task/.settings/org.eclipse.jdt.core.prefs
+Task/.settings/org.eclipse.m2e.core.prefs
+Task/.settings/org.eclipse.wst.common.component
+Task/.settings/org.eclipse.wst.common.project.facet.core.xml
+Task/.settings/org.eclipse.wst.jsdt.ui.superType.container
+Task/.settings/org.eclipse.wst.jsdt.ui.superType.name
+Task/.settings/org.eclipse.wst.validation.prefs
+Task/pom.xml
